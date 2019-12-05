@@ -1,0 +1,30 @@
+.focus {
+    color: blue;
+    font-size: 26px;
+    font-stretch: semi-expanded;
+}
+
+h1 {
+    color: slateblue;
+    font-size: 38px;
+}
+
+.parag {
+    margin: 5px;
+    padding: 5px;
+    background-color: black;
+    width: fit-content;
+    height: fit-content;
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+.parag a {
+    color: white;
+}
+
+.menu li {
+    list-style-type: none;
+    display: inline;
+    margin: 10px;
+}
